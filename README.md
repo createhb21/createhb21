@@ -18,7 +18,6 @@
 > - Clean-code
 > - Lo-fi
 
-
 ## :books: Profile
 
 <details><summary>🌱  Skills</summary><div markdown="1">
@@ -29,10 +28,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/> 
+<img src="https://user-images.githubusercontent.com/80245801/144755778-298733fb-95e9-454c-8c22-ee96d7a57693.png" width="40" height="40"/> 
 </p>
 
 </div></details>
-
 
 <details><summary>🌱  Projects</summary><div markdown="1">
 
