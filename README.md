@@ -1,33 +1,77 @@
+<div align=left>
+<a href="https://github.com/createhb21">
+  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreatehb21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</a>
+<p>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-hyobum-lee/)](https://www.linkedin.com/in/profile-of-hyobum-lee/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)](https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://www.notion.so/Createhb21-5148f13d70c2487491d6025888079f40)](https://www.notion.so/Createhb21-5148f13d70c2487491d6025888079f40)  
 
-<br>
-<h4 align="center" >
- 👨‍💻 9개월차 소통으로 일하는 프론트엔드 개발자입니다 👨‍💻 
-  </h4>
-   
-   <h3 align="center">🛠 Tech Stack 🛠</h3>
- 
- <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp 
-  <br />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=tyled-components&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/></a>&nbsp  
+  
+</div>
+
+<h2 align="left">⚡ Interests</h2>  
+
+> - Frontend
+> - Clean-code
+> - Music
+> - Sports
+
+## :books: Profile
+
+<details><summary>🌱  Skills</summary><div markdown="1">
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/> 
 </p>
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/creathb21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6"/></a>&nbsp
-  <a href="alsghk9701@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=alsghk9701@gmail.com"/></a>
-</p>
-<br />
+</div></details>
 
+
+<details><summary>🌱  Projects</summary><div markdown="1">
+
+> * PAYDAY
+>> - Project: Making Web-HomePage
+>>> * [PADAY-Client](https://github.com/createhb21/PayDay-Client)
+> * Awesome_Import
+>> - Project: Making Own Blogging Site
+>>> * [@_IMPORT](https://github.com/createhb21/awesome_import)
+> * [커넵(CtrlF)](https://play.google.com/store/apps/details?id=com.thinlineit.ctrlf&hl=ko&gl=US)
+>> - Project: Web App Wiki-Site
+>>> * [CtrlF](https://github.com/ThinLineIT)
+> * 어브로드(Abroad)
+>> - Project: Web App Community-Site
+>>> * [Abroad](https://github.com/createhb21/AbroadFE)
+> * 광운대학교 운동 동작 분류 AI 경진대회 
+>> - Program: Dacon 
+>>> * [(private)2021-KWU_Hackerton](https://github.com/leesk212/2021-KWU_Hackerton) 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=createhb21&show_icons=true&theme=default)
+</div></details>
 
+<details><summary>🌱  Educational History</summary><div markdown="1">
+
+>   
+>> **Kwangwoon University**(Nowon-gu, Seoul)  
+>> College of Law  
+>>> Sub-Major : Software & Business Administration
+
+</div></details>
+ 
+<h2 align="left">💻 Github Stats</h2>
+
+<div align=center>
+<a href="https://github.com/leesk212/createhb21.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=createhb21&line_height=27&show_icons=true&hide_border=true&theme=dark" witdh="300" height="auto" />
+
+  <img src="http://commitcombo.com/get?user=createhb21&theme=DeepOcean-mini" width = "320" height = "auto"/>
+</a>
+</div>
+</div></details>
+  
+  
 
