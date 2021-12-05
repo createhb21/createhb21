@@ -14,9 +14,10 @@
 <h2 align="left">⚡ Interests</h2>  
 
 > - Frontend
+> - Design
 > - Clean-code
-> - Music
-> - Sports
+> - Lo-fi
+
 
 ## :books: Profile
 
