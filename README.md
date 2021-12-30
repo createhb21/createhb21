@@ -37,7 +37,7 @@
 
 > * Awesome_Import
 >> - Project: Making Own Blogging Site
->>> * [@_IMPORT](https://github.com/createhb21/awesome_import)
+>>> * [@_IMPORT](https://awesome-import.herokuapp.com/)
 >>>> * [@_IMPORT Calendar](https://www.notion.so/f6990602ea99416fa03eb33ba0dd49ce?v=3c630afc71fc45a5b0c49c04ec9c5b16)
 > * PAYDAY
 >> - Project: Making Web-HomePage
