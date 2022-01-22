@@ -34,25 +34,6 @@
 </p>
 
 </div></details>
-
-<details><summary>🌱  Projects</summary><div markdown="1">
-
-> * Awesome_Import
->> - Project: Making Own Blogging Site
->>> * [@_IMPORT](https://awesomeimport.site/)
->>>> * [@_IMPORT Calendar](https://www.notion.so/f6990602ea99416fa03eb33ba0dd49ce?v=3c630afc71fc45a5b0c49c04ec9c5b16)
-> * PAYDAY
->> - Project: Making Web-HomePage
->>> * [PADAY-Client](https://github.com/createhb21/PayDay-Client)
-> * [커넵(CtrlF)](https://play.google.com/store/apps/details?id=com.thinlineit.ctrlf&hl=ko&gl=US)
->> - Project: Web App Wiki-Site
->>> * [CtrlF](https://github.com/ThinLineIT)
-> * 어브로드(Abroad)
->> - Project: Web App Community-Site
->>> * [Abroad](https://github.com/createhb21/AbroadFE)
-> * 광운대학교 운동 동작 분류 AI 경진대회 
->> - Program: Dacon 
->>> * [(private)2021-KWU_Hackerton](https://github.com/leesk212/2021-KWU_Hackerton) 
  
 </div></details>
 
