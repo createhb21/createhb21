@@ -16,9 +16,10 @@
 <h2 align="left">⚡ Interests</h2>  
 
 > - Frontend
-> - Design
-> - Clean-code
-> - Lo-fi
+> - Design 
+> - Lo-fi 🧸
+> - Solving Cube 🧶
+> - Playing Cello 🎻
 
 ## :books: Profile
 
