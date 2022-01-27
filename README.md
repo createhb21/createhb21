@@ -8,10 +8,9 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)](https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://www.notion.so/Createhb21-5148f13d70c2487491d6025888079f40)](https://www.notion.so/Createhb21-5148f13d70c2487491d6025888079f40)  
   
-<img src="https://user-images.githubusercontent.com/80245801/151391267-c4257fbd-b187-4f68-b798-70c5a72ccbb5.svg" /> <br />
 
-👆 <a href='https://awesomeimport.site/' target='_blank' style='color:#ff0a00'>awesome import</a>
-is my own tech blogging site 
+[![awesome import](https://user-images.githubusercontent.com/80245801/151396928-ff5cf6f7-3677-404d-86b3-bd06850bfb91.svg)](https://awesomeimport.site/)
+
 
   
 </div>
