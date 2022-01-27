@@ -1,6 +1,6 @@
 <div align=left>
 <a href="https://github.com/createhb21">
-  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreatehb21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreatehb21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </a>
 <p>
   
@@ -8,7 +8,10 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)](https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://www.notion.so/Createhb21-5148f13d70c2487491d6025888079f40)](https://www.notion.so/Createhb21-5148f13d70c2487491d6025888079f40)  
   
-[Own Tech Blog ⭐️](https://awesomeimport.site/)
+<img src="https://user-images.githubusercontent.com/80245801/151391267-c4257fbd-b187-4f68-b798-70c5a72ccbb5.svg" /> <br />
+
+👆 <a href='https://awesomeimport.site/' target='_blank' style='color:#ff0a00'>awesome import</a>
+is my own tech blogging site 
 
   
 </div>
