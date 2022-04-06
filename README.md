@@ -6,11 +6,11 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyobum-lee/)](https://www.linkedin.com/in/hyobum-lee/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)](https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)
+<a href="https://velog.io/@alsghk9701"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
   
 
 [![awesome import](https://user-images.githubusercontent.com/80245801/151396928-ff5cf6f7-3677-404d-86b3-bd06850bfb91.svg)](https://awesomeimport.site/)
-
 
   
 </div>
