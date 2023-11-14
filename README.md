@@ -10,8 +10,7 @@
 
   
 
-[![awesome import](https://user-images.githubusercontent.com/80245801/151396928-ff5cf6f7-3677-404d-86b3-bd06850bfb91.svg)](https://awesome-import.netlify.app/dev/-NS4ZW03KHUMYNCujy0n)
-
+[![awesome import](https://user-images.githubusercontent.com/80245801/151396928-ff5cf6f7-3677-404d-86b3-bd06850bfb91.svg)](https://awesome-import.netlify.app/dev/-N-b8u441YRzeuBRB2ns)
   
 </div>
 
