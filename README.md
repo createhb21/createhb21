@@ -1,56 +1,37 @@
-<div align=left>
-<a href="https://github.com/createhb21">
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreatehb21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+<h1 align="left">Absorb, Modesty, Greedy, Double Jump</h1>
+<a href="https://makers.appwrite.io/createhb21">
+    <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=createhb21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BAEKJungHo" />
 </a>
-<p>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyobum-lee/)](https://www.linkedin.com/in/hyobum-lee/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/createhb21-s-home-2c385f632f544189a797c4145aa784f6/)](https://createhb21.notion.site/Be-Createhb21-fcc22ce3e0f9472297245106db9b84e1)
-<a href="https://velog.io/@alsghk9701"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-</div>
+A bit about Myself, I am <b>Hyobum LEE.</b>  want to be a Flexible Engineer who is not dependent on specific skills. <b>Absorb is a talent</b>⚡
 
-<h2 align="left">⚡ Interests</h2>  
+<h3 align="center"> Interested in Developer Experience, MSA, Growing Team </h3>
 
-> - Frontend
-> - Design 
-> - Lo-fi 🧸
-> - Solving Cube 🧶
-> - Playing Cello 🎻
+<div align="left">
 
-## :books: Profile
+<h1>Technical Skills</h1>
+ 
+ <b>Main Languages: Typescript</b> with <b>Framework: React, Next.js</b>
 
-<details><summary>🌱  Skills</summary><div markdown="1">
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/> 
-<img src="https://user-images.githubusercontent.com/80245801/144755778-298733fb-95e9-454c-8c22-ee96d7a57693.png" width="40" height="40"/> 
+<p align="left"> 
+ <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+ <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+ <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-</div></details>
- 
-</div></details>
 
-<details><summary>🌱  Educational History</summary><div markdown="1">
+I've worked quite hard on various projects. As a Developer, as a Planner, as a Team leader. This has allowed me to grow quickly and become communicative person. So let's have a look at my project section.
 
->   
->> **Kwangwoon University**(Nowon-gu, Seoul)  
->> College of Law  
->>> Sub-Major : Software & Business Administration
+<h1 align="left">Services</h1>
 
-</div></details>
- 
-<h2 align="left">💻 Github Stats</h2>
+| Service Name      | Description | 
+| :---:        |    :----   |  
+| [Trunkr](https://trunkr.kr/)     | Growth platform through review and sharing (coming soon) |
+| [Ggulmo](https://ggulmo.com/)     | Recommerce platform through AI-based. it orchestrates microservices that handle data crawling, preprocessing, translation, AI regeneration and CI/CD pipelines, 200K MAU |
 
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=createhb21&line_height=27&show_icons=true&hide_border=true&theme=dark" witdh="300" height="auto" />
-  
-</div>
-</div></details>
-  
-  
+<h1 align="left">Projects</h1>
 
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Ahhachul](https://github.com/ahachulTeam)     | Tech: Typescript, React, Redux, MSA, Design System, Storybook (coming soon)
+| [Wikitoday](https://wikitoday.io/EN-US)     | Fully automated AI-based article generator. Built with Google Cloud Workflows, 50K MAU
