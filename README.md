@@ -3,7 +3,7 @@
     <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=createhb21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BAEKJungHo" />
 </a>
 
-A bit about Myself, I am <b>Hyobum LEE.</b>  want to be a Flexible Engineer who is not dependent on specific skills. <b>Absorb is a talent</b>⚡
+A bit about Myself, I am <b>Hyobum LEE.</b> want to be a Flexible Engineer who is not dependent on specific skills. <b>Absorb is a talent</b>⚡
 
 <h3 align="center"> Interested in Developer Experience, MSA, Growing Team </h3>
 
@@ -19,19 +19,18 @@ A bit about Myself, I am <b>Hyobum LEE.</b>  want to be a Flexible Engineer who 
  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-
 I've worked quite hard on various projects. As a Developer, as a Planner, as a Team leader. This has allowed me to grow quickly and become communicative person. So let's have a look at my project section.
 
 <h1 align="left">Services</h1>
 
-| Service Name      | Description | 
-| :---:        |    :----   |  
-| [Trunkr](https://trunkr.kr/)     | Growth platform through review and sharing (coming soon) |
-| [Ggulmo](https://ggulmo.com/)     | Recommerce platform through AI-based. it orchestrates microservices that handle data crawling, preprocessing, translation, AI regeneration and CI/CD pipelines, 200K MAU |
+|         Service Name          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :---------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Trunkr](https://trunkr.kr/)  | Growth platform through review and sharing (coming soon)                                                                                                                                                                                                                                                                                                                                                                                                             |
+| [Ggulmo](https://ggulmo.com/) | Recommerce platform through AI-based. it orchestrates microservices that handle data crawling, preprocessing, translation, AI regeneration and CI/CD pipelines. 200K MAU <br /> [App Store](https://apps.apple.com/kr/app/%EA%BF%80%EB%AA%A8-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%B5%9C%EB%8C%80-%EC%A4%91%EA%B3%A0-%ED%86%B5%ED%95%A9-%ED%94%8C%EB%9E%AB%ED%8F%BC/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR) |
 
 <h1 align="left">Projects</h1>
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Ahhachul](https://github.com/ahachulTeam)     | Tech: Typescript, React, Redux, MSA, Design System, Storybook (coming soon)
-| [Wikitoday](https://wikitoday.io/EN-US)     | Fully automated AI-based article generator. Built with Google Cloud Workflows, 50K MAU
+|                Project Name                | Description                                                                            |
+| :----------------------------------------: | :------------------------------------------------------------------------------------- |
+| [Ahhachul](https://github.com/ahachulTeam) | Tech: Typescript, React, Redux, MSA, Design System, Storybook                          |
+|  [Wikitoday](https://wikitoday.io/EN-US)   | Fully automated AI-based article generator. Built with Google Cloud Workflows. 50K MAU |
