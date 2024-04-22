@@ -33,4 +33,3 @@ I've worked quite hard on various projects. As a Developer, as a Planner, as a T
 |                Project Name                | Description                                                                            |
 | :----------------------------------------: | :------------------------------------------------------------------------------------- |
 | [Ahhachul](https://github.com/ahachulTeam) | Tech: Typescript, React, Redux, MSA, Design System, Storybook (coming soon)                         |
-|  [Wikitoday](https://wikitoday.io/EN-US)   | Fully automated AI-based article generator. Built with Google Cloud Workflows. 50K MAU |
