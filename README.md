@@ -25,13 +25,14 @@ I've worked quite hard on various projects. As a Developer, as a Planner, as a T
 
 |         Service Name          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | :---------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [About](https://studyabout.herokuapp.com)  | Private platform for cafe study, small gathering (coming soon)
-| [Trunkr](https://trunkr.kr/)  | Growth platform through review and sharing                                                                                                                                                                                
-| [Ggulmo](https://ggulmo.com/search/products?text=%EC%8B%B8%EC%9D%B4&includes=%ED%9D%A0%EB%BB%91%EC%87%BC) | Recommerce platform through AI-based. it orchestrates microservices that handle data crawling, preprocessing, translation, AI regeneration and CI/CD pipelines. 200K MAU <br /> [App Store](https://apps.apple.com/kr/app/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR) |
+| [about](https://studyabout.herokuapp.com)  | Private platform for cafe study, small gathering 
+| [trunkr](https://trunkr.kr/)  | Growth platform through review and sharing                                                                                                                                                                                
+| [ggulmo](https://ggulmo.com/search/products?text=%EC%8B%B8%EC%9D%B4&includes=%ED%9D%A0%EB%BB%91%EC%87%BC) | Recommerce platform through AI-based. it orchestrates microservices that handle data crawling, preprocessing, translation, AI regeneration and CI/CD pipelines. 200K MAU <br /> [App Store](https://apps.apple.com/kr/app/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR) |
 
 <h1 align="left">Projects</h1>
 
 |                Project Name                | Description                                                                            |
 | :----------------------------------------: | :------------------------------------------------------------------------------------- |
-| [Ahhachul](https://github.com/ahachulTeam) | APT. |
+| [allwage](https://github.com/allwagelab/client) | ~ing |
+| [ahhachul](https://github.com/ahachulTeam) | ~ing |
 
