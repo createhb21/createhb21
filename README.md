@@ -33,6 +33,6 @@ I've worked quite hard on various projects. As a Developer, as a Planner, as a T
 
 |                Project Name                | Description                                                                            |
 | :----------------------------------------: | :------------------------------------------------------------------------------------- |
-| [allwage](https://github.com/allwagelab/client) | ~ing |
+| [allwage](https://github.com/orgs/allwagelab/repositories) | ~ing |
 | [ahhachul](https://github.com/ahachulTeam) | ~ing |
 
