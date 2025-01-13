@@ -1,38 +1,21 @@
-<h1 align="left">Absorb, Modesty, Greedy, Double Jump</h1>
-<a href="https://makers.appwrite.io/createhb21">
-    <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=createhb21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="createhb21" />
-</a>
+<h1 align="left">Hi, There ✋</h1>
 
-A bit about Myself, I am <b>Hyobum LEE.</b> want to be a Flexible Engineer who is not dependent on specific skills. <b>Absorb is a talent</b>⚡
+<ul>
+    <li>보유한 기술과 지식에 머무르지 않는, 겸손한 개발자가 되고 싶습니다.</li>
+    <li>기억에 의지하는 개발자가 되지 않기 위해, 새롭게 배워나가는 내용을 꾸준히 기록합니다.</li>
+    <li>빠르게 변화하는 개발 생태계 속에서 성장의 기회를 발견하고, 이를 즐거워하며 학습합니다.</li>
+</ul>
 
-<h3 align="center"> Interested in Developer Experience, MSA, Growing Team </h3>
+<h4 align="left">진행한 프로젝트 내역</h1>
+
+| Period | Service Name | Description
+|-----|-----|-----
+| 2024.03 - 2024.05 | [Trunkr](https://trunkr.kr/) | ChatGPT 리뷰와 공유를 통한 기술 면접 성장 플랫폼
+| 2022.07 - 2023.12 | [꿀모](https://ggulmo.com/search/products?text=%EC%8B%B8%EC%9D%B4&includes=%ED%9D%A0%EB%BB%91%EC%87%BC) | AI 기반의 리커머스 플랫폼 <br /> [App Store](https://apps.apple.com/kr/app/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR)
+---
 
 <div align="left">
-
-<h1>Technical Skills</h1>
- 
- <b>Main Languages: Typescript</b> with <b>Framework: React, Next.js</b>
-
-<p align="left"> 
- <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
- <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
- <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-
-I've worked quite hard on various projects. As a Developer, as a Planner, as a Team leader. This has allowed me to grow quickly and become communicative person. So let's have a look at my project section.
-
-<h1 align="left">Services</h1>
-
-|         Service Name          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| :---------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [about](https://studyabout.herokuapp.com)  | Private platform for cafe study, small gathering 
-| [trunkr](https://trunkr.kr/)  | Growth platform through review and sharing                                                                                                                                                                                
-| [ggulmo](https://ggulmo.com/search/products?text=%EC%8B%B8%EC%9D%B4&includes=%ED%9D%A0%EB%BB%91%EC%87%BC) | Recommerce platform through AI-based. it orchestrates microservices that handle data crawling, preprocessing, translation, AI regeneration and CI/CD pipelines. 200K MAU <br /> [App Store](https://apps.apple.com/kr/app/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR) |
-
-<h1 align="left">Projects</h1>
-
-|                Project Name                | Description                                                                            |
-| :----------------------------------------: | :------------------------------------------------------------------------------------- |
-| [allwage](https://github.com/orgs/allwagelab/repositories) | ~ing |
-| [ahhachul](https://github.com/ahachulTeam) | ~ing |
-
+    <a href="https://makers.appwrite.io/createhb21">
+        <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=createhb21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="createhb21" />
+    </a>
+</div>
