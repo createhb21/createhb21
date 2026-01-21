@@ -6,16 +6,21 @@
     <li>빠르게 변화하는 개발 생태계 속에서 성장의 기회를 발견하고, 이를 즐거워하며 학습합니다.</li>
 </ul>
 
-<h4 align="left">진행한 프로젝트 내역</h1>
+<h4 align="left">진행한 프로젝트 내역</h4>
 
-| Period | Service Name | Description
-|-----|-----|-----
-| 2024.03 - 2024.05 | [Trunkr](https://trunkr.kr/) | ChatGPT 리뷰와 공유를 통한 기술 면접 성장 플랫폼
-| 2022.07 - 2023.12 | [꿀모](https://ggulmo.com/search/products?text=%EC%8B%B8%EC%9D%B4&includes=%ED%9D%A0%EB%BB%91%EC%87%BC) | AI 기반의 리커머스 플랫폼 <br /> [App Store](https://apps.apple.com/kr/app/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR)
----
+| Period | Project Name | Description | Repository / Visibility |
+|--------|--------------|-------------|--------------------------|
+| 2023.03 - 2025.05 | [Ahhachul](https://ahhachul.com) | 함께 만들어가는 지하철 실시간 커뮤니티 플랫폼 | [🔗 GitHub - Ahachul](https://github.com/ahachulTeam) `공개` |
+| 2024.03 - 2024.05 | [Trunkr](https://trunkr.kr) | ChatGPT 리뷰와 공유를 통한 기술 면접 성장 플랫폼 | [🔒 GitHub - Trunkr](https://github.com/trunkr) |
+| 2022.07 - 2023.12 | [Ggulmo](https://ggulmo.com) | AI 기반의 리커머스 플랫폼 (MAU 300K+) <br /> [App Store](https://apps.apple.com/kr/app/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR) | [🔒 GitHub - Ggulmo](https://github.com/ggulmoTeam) |
 
-<div align="left">
-    <a href="https://makers.appwrite.io/createhb21">
-        <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=createhb21&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="createhb21" />
-    </a>
-</div>
+<h4 align="left">Latest Posts</h4>
+
+- [(번역) Cypress vs Playwright: 500개의 E2E 테스트를 돌려봤다](https://createhb21.github.io/600-archive/2026/01/17/cypress-vs-playwright/)
+- [(번역) React는 변했고, 당신의 Hook도 변해야 한다](https://createhb21.github.io/600-archive/2026/01/17/react-has-changed/)
+- [Advanced Frontend Engineering: Interview Questions & Deep Dive](https://createhb21.github.io/000-index/2025/12/11/frontend-interview-questions/)
+
+
+<h4 align="left">Visit my dev feed</h4>
+
+- [createhb21.github.io](https://createhb21.github.io/categories/100-private-log/)
