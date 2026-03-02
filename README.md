@@ -16,13 +16,17 @@
 
 <h4 align="left">최근 글</h4>
 
-- [(번역) Cypress vs Playwright: 500개의 E2E 테스트를 돌려봤다](https://createhb21.github.io/600-archive/2026/01/17/cypress-vs-playwright/)
-- [(번역) React는 변했고, 당신의 Hook도 변해야 한다](https://createhb21.github.io/600-archive/2026/01/17/react-has-changed/)
+- [멀티모달 AI와 네이티브 추론 원리](https://createhb21.github.io/400-area/2026/02/15/vibe-coding-club-advanced-week2/)
+- [에이전트 아키텍처와 MCP](https://createhb21.github.io/400-area/2026/02/15/vibe-coding-club-advanced-week1/)
 
 
 <h4 align="left">개발 기록</h4>
 
 - [createhb21.github.io](https://createhb21.github.io/categories/100-private-log/)
 
+---
 
+<h4 align="left">오픈소스 기여</h4>
+
+- [storybookjs/storybook](https://github.com/storybookjs/storybook/pulls?q=author%3Acreatehb21)
 
