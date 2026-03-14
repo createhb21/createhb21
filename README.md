@@ -16,8 +16,8 @@
 
 <h4 align="left">최근 글</h4>
 
-- [멀티모달 AI와 네이티브 추론 원리](https://createhb21.github.io/400-area/2026/02/15/vibe-coding-club-advanced-week2/)
-- [에이전트 아키텍처와 MCP](https://createhb21.github.io/400-area/2026/02/15/vibe-coding-club-advanced-week1/)
+- [사용자 경험의 시간 구조를 설계하는 프론트엔드](https://createhb21.github.io/400-area/2026/03/14/frontend-designing-the-time-structure-of-ux/)
+- [oh-my-codex 사용 방법](https://createhb21.github.io/400-area/2026/03/05/oh-my-codex-how-to-use/)
 
 
 <h4 align="left">개발 기록</h4>
