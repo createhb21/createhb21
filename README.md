@@ -21,7 +21,6 @@
 - [사용자 경험의 시간 구조를 설계하는 프론트엔드](https://createhb21.github.io/400-area/2026/03/14/frontend-designing-the-time-structure-of-ux/)
 - [oh-my-codex 사용 방법](https://createhb21.github.io/400-area/2026/03/05/oh-my-codex-how-to-use/)
 
-https://allwage.co.kr/
 <h4 align="left">개발 기록</h4>
 
 - [createhb21.github.io](https://createhb21.github.io/categories/100-private-log/)
