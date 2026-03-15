@@ -12,6 +12,7 @@
 |--------|--------------|-------------|--------------------------|
 | 2025.08 - 2025.09 | [Quack](https://quack-landing-personal.vercel.app) | 식당 맛집 네거티브 필터링, 리뷰 서비스를 제공하는 플랫폼 <br /> [Instagram](https://www.instagram.com/quack_kr) | [🔒 GitHub - Quack](https://github.com/Quack-kr) |
 | 2023.03 - 2025.05 | [Ahhachul](https://ahhachul.com) | 함께 만들어가는 지하철 실시간 커뮤니티 플랫폼 <br /> [Slogan](https://createhb21.github.io/assets/images/side-project/ahhachul/hero.png) | [🔗 GitHub - Ahachul](https://github.com/ahachulTeam) `공개` |
+| 2024.12 - 2025.02 | [Allwage](https://allwage.co.kr) | AI 기반 근무 스케줄링 플랫폼 (디자인시스템) <br /> [Instagram](https://www.instagram.com/allwage_official) • [Storybook](https://6773a4014b40c68b26b59e81-alyrtpudht.chromatic.com) | [🔗 GitHub - Allwage](https://github.com/allwagelab) `공개` |
 | 2024.03 - 2024.05 | [Trunkr](https://trunkr.kr) | ChatGPT 리뷰와 공유를 통한 기술 면접 성장 플랫폼 <br /> [Instagram](https://www.instagram.com/trunkr.ai) • [Slogan](https://createhb21.github.io/assets/videos/side-project/trunkr/hero.mp4) | [🔗 GitHub - Trunkr](https://github.com/trunkr) `공개` |
 | 2022.07 - 2023.12 | [Ggulmo](https://ggulmo.com) | AI 기반의 리커머스 플랫폼 (MAU 300K+) <br /> [App Store](https://apps.apple.com/kr/app/id6467176042) • [Google Play](https://play.google.com/store/apps/details?id=com.ggulmoapp&hl=ko-KR) | [🔒 GitHub - Ggulmo](https://github.com/ggulmoTeam) |
 
@@ -20,7 +21,7 @@
 - [사용자 경험의 시간 구조를 설계하는 프론트엔드](https://createhb21.github.io/400-area/2026/03/14/frontend-designing-the-time-structure-of-ux/)
 - [oh-my-codex 사용 방법](https://createhb21.github.io/400-area/2026/03/05/oh-my-codex-how-to-use/)
 
-
+https://allwage.co.kr/
 <h4 align="left">개발 기록</h4>
 
 - [createhb21.github.io](https://createhb21.github.io/categories/100-private-log/)
