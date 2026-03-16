@@ -18,7 +18,7 @@
 
 <h4 align="left">최근 글</h4>
 
-- [프론트엔드 통신 설계](https://createhb21.github.io/400-area/2026/03/16/frontend-communication-design-boundary-first/)
+- [실패를 기본값으로 삼는 프론트엔드 통신 설계](https://createhb21.github.io/400-area/2026/03/16/frontend-communication-design-boundary-first/)
 - [사용자 경험의 시간 구조를 설계하는 프론트엔드](https://createhb21.github.io/400-area/2026/03/14/frontend-designing-the-time-structure-of-ux/)
 
 <h4 align="left">개발 기록</h4>
