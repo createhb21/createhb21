@@ -19,10 +19,3 @@
 <h4 align="left">개발 기록</h4>
 
 - [createhb21.github.io](https://createhb21.github.io/categories/100-private-log/)
-
----
-
-<h4 align="left">오픈소스 기여</h4>
-
-- [storybookjs/storybook](https://github.com/storybookjs/storybook/pulls?q=author%3Acreatehb21)
-
